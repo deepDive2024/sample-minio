@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  minio:
+  - apiVersion: v1
+    appVersion: RELEASE.2024-04-18T19-09-19Z
+    created: "2024-12-13T14:50:01.4900088+01:00"
+    description: MY_High Performance Object Storage
+    digest: ebf793cd48bb72fc720c639c51c359a65432f43592324b35b8b982aedb5dfb2a
+    home: https://min.io
+    icon: https://min.io/resources/img/logo/MINIO_wordmark.png
+    keywords:
+    - minio
+    - storage
+    - object-storage
+    - s3
+    - cluster
+    maintainers:
+    - email: dev@minio.io
+      name: MinIO, Inc
+    name: minio
+    sources:
+    - https://github.com/minio/minio
+    urls:
+    - minio-5.3.0.tgz
+    version: 5.3.0
+generated: "2024-12-13T14:50:01.4803878+01:00"
